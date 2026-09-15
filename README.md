@@ -1,5 +1,5 @@
 # My Portfolio
-![Static Badge](https://img.shields.io/badge/Portofolio-v0.2.2-purple?logo=github)
+![Static Badge](https://img.shields.io/badge/Portfolio-v0.2.2-purple?logo=github)
 ![Static Badge](https://img.shields.io/badge/Vite-v5.0.12-blue?logo=vite)
 ![Static Badge](https://img.shields.io/badge/TypeScript-v5.3.3-blue?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Three.js-v0.160.1-blue?logo=threedotjs)
