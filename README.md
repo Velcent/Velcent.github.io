@@ -1,4 +1,4 @@
-# My Portfolio and CV
+# My Portfolio
 ![Static Badge](https://img.shields.io/badge/Portofolio-v0.2.2-purple?logo=github)
 ![Static Badge](https://img.shields.io/badge/Vite-v5.0.12-blue?logo=vite)
 ![Static Badge](https://img.shields.io/badge/TypeScript-v5.3.3-blue?logo=typescript)
